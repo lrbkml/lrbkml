@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrbkml
--  I am a Computer Science Student with good knowledge of HTML , CSS , Javascript , C , C++ , Python , Java , .NET , MySQL . 
+-  I am a Computer Science Student with good command on HTML , CSS , Javascript , C , C++ , Python , Java , .NET , MySQL . 
 -  Currently working on MEAN Stack development.
 -  Target 2023 🎯 : Full Stack developer 
 -  An average student who strive for daily progress. 
