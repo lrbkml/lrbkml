@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lrbkml
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Laraib!;I'm+a+final+year+student...;Aspiring+Web+Dev)](https://git.io/typing-svg)
 -  I am a Computer Science Student with good command on HTML , CSS , Javascript , C , C++ , Python , Java , .NET , MySQL . 
 -  Currently working on MEAN Stack development.
 -  Target 2023 🎯 : Full Stack developer 
