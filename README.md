@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development specifically frontend**
 
-- 📫 How to reach me **laraib1999khan@gmail.com ,**
+- 📫 How to reach me **laraib1999khan@gmail.com **
 
 - 📄 Know about my experiences [https://rb.gy/m9kj5](https://rb.gy/m9kj5)
 
