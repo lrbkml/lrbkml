@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://rb.gy/m9kj5](https://rb.gy/m9kj5)
 
-- ⚡ Fun fact **As a web development aficionado, I bring a unique perspective to the table. Currently pursuing my Bachelor's degree in Computer Science and Engineering from LOVELY PROFESSIONAL UNIVERSITY, I am on a mission to challenge the status quo and create extraordinary web experiences. With a creative flair, a keen eye for detail, and a passion for innovation, I strive to make my mark in the world of Frontend Web Development.**
+- ⚡ **As a web development aficionado, I bring a unique perspective to the table. Currently pursuing my Bachelor's degree in Computer Science and Engineering from LOVELY PROFESSIONAL UNIVERSITY, I am on a mission to challenge the status quo and create extraordinary web experiences. With a creative flair, a keen eye for detail, and a passion for innovation, I strive to make my mark in the world of Frontend Web Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
