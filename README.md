@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Laraib!;I'm+a+final+year+student...;Aspiring+Web+Dev)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Laraib Kamal</h1>
+<h1 align="center">Hey 👋, I'm Laraib Kamal</h1>
 <h3 align="center">An Impassioned frontend developer hailing from India.</h3>
 <img align="right"  width="400" src="![image](https://user-images.githubusercontent.com/73985064/235796757-d88217d5-606e-4129-b4c4-2d5c0c7cf87b.png)
 ">
