@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrbkml&label=Profile%20views&color=0e75b6&style=flat" alt="lrbkml" /> </p>
 
-- 🌱 I’m currently learning **React and NPM**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Web Development specifically frontend**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **laraib1999khan@gmail.com **
 
