@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrbkml&label=Profile%20views&color=0e75b6&style=flat" alt="lrbkml" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Backend Dev**
 
 - 💬 Ask me about **Web Development**
 
